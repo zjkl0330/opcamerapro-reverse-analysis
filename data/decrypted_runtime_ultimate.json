@@ -1,0 +1,247 @@
+{
+ "per_file": {
+  "defpackage/C1786.java": [
+   "-",
+   "bestOplusScale=",
+   "floatFields=",
+   "hdrgm:GainMapMax",
+   "hdrgm:GainMapMin",
+   "linearMaskMatchesMetadata=",
+   "oplusScaleFromCapture=",
+   "oplusScaleFromMeta="
+  ],
+  "defpackage/C2748.java": [
+   "tag"
+  ],
+  "defpackage/RunnableC0195.java": [
+   "getOptionSingleIcon"
+  ],
+  "defpackage/C0859.java": [
+   ",",
+   "0",
+   "1",
+   "2",
+   "5",
+   "8"
+  ],
+  "defpackage/C0555.java": [
+   "oplus.autotest.camera.enable.hal.privatelog"
+  ],
+  "defpackage/AbstractC1184.java": [
+   "761@34597L11,762@34676L10,759@34507L328",
+   "772@35045L11,773@35117L10,770@34949L210",
+   "821@36709L11",
+   "823@36805L11",
+   "826@36938L11",
+   "828@37014L11",
+   "C72@3469L9:Box.kt#2w3rfo",
+   "C845@37854L10,839@37485L468:ModuleLogCenterScreen.kt#r6v94r",
+   "CC(Box)N(modifier,contentAlignment,propagateMinConstraints,content)71@3424L131:Box.kt#2w3rfo",
+   "CC(remember):ModuleLogCenterScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC1308.java": [
+   "CC(remember):CameraSettingsScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC3819.java": [
+   "488@21227L70,489@21321L72,490@21419L377,498@21822L28,486@21157L703",
+   "CC(remember):CustomWatermarkListScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC1525.java": [
+   "1761@75470L54,1762@75560L53,1760@75423L208",
+   "1767@75752L55,1768@75843L60,1766@75705L216",
+   "1778@76271L500,1772@75974L797",
+   "1842@78941L202,1846@79164L75",
+   "1858@79717L10,1859@79785L11,1856@79625L275",
+   "CC(remember):FilterOrderScreen.kt#9igjgp",
+   "\\s+"
+  ],
+  "defpackage/C3498.java": [
+   "local.hdr."
+  ],
+  "defpackage/C0980.java": [
+   "JSON",
+   "button",
+   "buttonBackgroundImageMd5",
+   "buttonBackgroundImageUrl",
+   "buttonName",
+   "buttonSidePictureMd5",
+   "buttonSidePictureUrl",
+   "cornerMarkId",
+   "font",
+   "fontZipUrl",
+   "getAbsolutePath(...)",
+   "optString(...)",
+   "styleDesc",
+   "styleDescTwo",
+   "styleId",
+   "styleJsonMd5",
+   "styleJsonUrl",
+   "styleTitle",
+   "version"
+  ],
+  "defpackage/AbstractC1974.java": [
+   "171@7354L44,167@7192L216",
+   "178@7534L43,176@7463L124",
+   "CC(remember):CameraTopHintCards.kt#9igjgp"
+  ],
+  "defpackage/C1079.java": [
+   ",",
+   "b",
+   "c",
+   "d",
+   "e",
+   "f",
+   "g",
+   "h",
+   "i",
+   "j",
+   "k"
+  ],
+  "defpackage/C3030.java": [
+   "<set-?>",
+   "createBitmap(...)",
+   "livephoto_writeback",
+   "transform_route",
+   "watermark.device"
+  ],
+  "defpackage/C2469.java": [
+   "C(dumpGroupDescription)N(group,activeGroups):ModuleLogCenterScreen.kt#r6v94r",
+   "C(dumpGroupTitle)N(group):ModuleLogCenterScreen.kt#r6v94r"
+  ],
+  "defpackage/C1035.java": [
+   "CC(Column)N(modifier,verticalArrangement,horizontalAlignment,content)87@4443L61,88@4509L134:Column.kt#2w3rfo",
+   "CC(Layout)P(!1,2)81@3355L27,84@3521L416:Layout.kt#80mrfh"
+  ],
+  "defpackage/RunnableC3020.java": [
+   "livephoto_post_pack_finalize"
+  ],
+  "defpackage/C0650.java": [
+   "camera-config"
+  ],
+  "defpackage/C1143.java": [
+   "0"
+  ],
+  "defpackage/C1519.java": [
+   "CC(remember):FilterOrderScreen.kt#9igjgp"
+  ],
+  "defpackage/C1462.java": [
+   "-",
+   "800t_sdr.bin",
+   "\\s+",
+   "filter_preview_lut"
+  ],
+  "defpackage/C1500.java": [
+   "CC(remember):FilterOrderScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC0717.java": [
+   "#FFFFFF",
+   "535@22464L112,538@22624L77,543@22778L66,544@22870L423,553@23319L32,554@23362L1147,541@22710L1799,585@24625L66,586@24718L72,588@24859L66,590@24986L130,594@25142L43,583@24519L676",
+   "CC(remember):CustomWatermarkEditorScreen.kt#9igjgp",
+   "application/zip",
+   "color"
+  ],
+  "defpackage/AbstractC1228.java": [
+   "1018@48270L38,1013@48046L276",
+   "231@11156L62,232@11242L61,233@11328L575,229@11081L865",
+   "254@12093L62,255@12179L32,252@12022L199",
+   "262@12368L65,263@12457L64,264@12548L32,265@12605L40,266@12671L40,260@12296L425",
+   "273@12867L64,274@12955L63,275@13045L32,276@13102L39,277@13167L39,271@12795L421",
+   "586@27992L57,587@28081L63,590@28263L160,594@28453L31,584@27909L589",
+   "600@28605L43,601@28681L42,602@28755L40,607@28958L37,608@29032L38,610@29135L2624,656@31774L2755,605@28883L5646",
+   "723@34686L44,724@34760L1208,745@35998L35,746@36065L31,747@36111L373,721@34610L1874",
+   "774@37138L45,775@37220L121,780@37406L1294,807@38715L2288,772@37063L3940",
+   "854@41171L45,855@41244L47,856@41321L35,857@41386L35,858@41453L31,852@41093L405",
+   "866@41665L44,867@41737L46,868@41813L34,869@41877L34,870@41943L31,864@41587L401",
+   "878@42161L43,876@42082L136",
+   "885@42354L55,886@42437L57,887@42524L920,906@43474L30,883@42276L1242",
+   "913@43669L50,911@43590L143",
+   "920@43876L55,921@43959L57,922@44046L118,926@44194L37,927@44263L35,928@44330L30,918@43798L576",
+   "935@44545L40,936@44613L46,937@44689L377,945@45096L31,933@44467L674",
+   "992@47096L53,993@47181L60,996@47364L539,1008@47933L33,990@47013L967",
+   "CC(remember):ModuleSettingsScreen.kt#9igjgp",
+   "DEFAULT",
+   "META_MODULE",
+   "Meta Module",
+   "Mountify Standalone",
+   "OVERLAYFS",
+   "default",
+   "getString(...)"
+  ],
+  "defpackage/AbstractC1842.java": [
+   "style"
+  ],
+  "defpackage/C0021.java": [
+   "i",
+   "o"
+  ],
+  "defpackage/C2345.java": [
+   "getString(...)"
+  ],
+  "defpackage/C1655.java": [
+   "boolean"
+  ],
+  "defpackage/C3904.java": [
+   "borderX"
+  ],
+  "defpackage/C0997.java": [
+   "templateStyleId",
+   "updatedAt"
+  ],
+  "defpackage/AbstractC3769.java": [
+   "CC(remember):MainScreen.kt#9igjgp",
+   "startDocument"
+  ],
+  "defpackage/AbstractC3869.java": [
+   "CC(remember):VendorTagSettingsGroup.kt#9igjgp",
+   "enableSoftLightNightMode",
+   "enableSoftLightPhotoMode"
+  ],
+  "defpackage/C2728.java": [
+   ";"
+  ],
+  "defpackage/C2295.java": [
+   "getParameterTypes(...)"
+  ],
+  "defpackage/C1505.java": [
+   "1654@96989L51,1655@97084L50,1658@97338L38,1653@96933L605",
+   "CC(remember):VendorTagSettingsGroup.kt#9igjgp",
+   "enableHasselbladWatermark",
+   "enableLUMO"
+  ],
+  "defpackage/C1077.java": [
+   "getDeclaredFields(...)"
+  ],
+  "defpackage/C2326.java": [
+   "770@37308L11",
+   "772@37400L11",
+   "CC(remember):MainScreen.kt#9igjgp"
+  ],
+  "defpackage/C2977.java": [
+   "addFeatureList",
+   "getGroupConflict",
+   "getJSONObject(...)",
+   "groups",
+   "null cannot be cast to non-null type kotlin.Boolean",
+   "optString(...)",
+   "setGroupConflict",
+   "toBuilder"
+  ],
+  "defpackage/AbstractC3069.java": [
+   "273@10190L27",
+   "274@10260L27",
+   "275@10330L27",
+   "276@10405L29",
+   "C101@5233L9:Row.kt#2w3rfo",
+   "C312@11399L11,303@11054L382,314@11453L113:QAScreen.kt#9kt3g8",
+   "CC(Layout)P(!1,2)81@3355L27,84@3521L416:Layout.kt#80mrfh",
+   "CC(Row)N(modifier,horizontalArrangement,verticalAlignment,content)99@5125L58,100@5188L131:Row.kt#2w3rfo",
+   "CC(remember):QAScreen.kt#9igjgp"
+  ]
+ },
+ "summary": {
+  "solved": 370,
+  "total": 420,
+  "unique": 147,
+  "unbuildable": 3
+ }
+}

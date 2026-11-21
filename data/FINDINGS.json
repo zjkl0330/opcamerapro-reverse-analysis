@@ -1,0 +1,138 @@
+{
+  "apk": {
+    "file": "OPCameraPro_v3.1.22.apk",
+    "bytes": 9026799,
+    "sha256": "6bc77cf025296ea8611469ebacfe01786c2951edafb4d6922b5b61658ed86901",
+    "version_name": "3.1.22",
+    "version_code": "3122",
+    "min_sdk": "35",
+    "target_sdk": "36",
+    "package": "com.tlsu.opluscamerapro",
+    "dex_types": 5075,
+    "dex_strings": 186
+  },
+  "signing": {
+    "scheme": "v3",
+    "signer_cn": "evermore",
+    "cert_sha256": "141fc0d9dd077f7d1e96b68ab669e5378f9951aedc4fcb74774ba40d9d521038",
+    "validity": "2025-04-30 ~ 2050-04-24",
+    "self_consistent": true,
+    "rotation": false
+  },
+  "module_classes_visible": [
+    "ModernHookEntry",
+    "hook/camera/AICaptureGuideNativePatcher",
+    "hook/camera/PseudoUltraHdrNative",
+    "ui/MainActivity",
+    "utils/App"
+  ],
+  "module_classes_obfuscated_count": null,
+  "permissions": [
+    "android.permission.QUERY_ALL_PACKAGES",
+    "android.permission.INTERNET",
+    "android.permission.MANAGE_EXTERNAL_STORAGE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "com.tlsu.opluscamerapro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+  ],
+  "components": [
+    {
+      "type": "activity",
+      "name": "com.tlsu.opluscamerapro.ui.MainActivity"
+    },
+    {
+      "type": "activity",
+      "name": "com.tlsu.opluscamerapro.ui.MainActivityLauncher"
+    },
+    {
+      "type": "provider",
+      "name": "androidx.core.content.FileProvider"
+    },
+    {
+      "type": "provider",
+      "name": "io.github.libxposed.service.XposedProvider"
+    },
+    {
+      "type": "provider",
+      "name": "androidx.startup.InitializationProvider"
+    },
+    {
+      "type": "receiver",
+      "name": "androidx.profileinstaller.ProfileInstallReceiver"
+    }
+  ],
+  "native_libs": [
+    {
+      "name": "libUhdrUtils-jni.so",
+      "bytes": 386352
+    },
+    {
+      "name": "libandroidx.graphics.path.so",
+      "bytes": 10096
+    },
+    {
+      "name": "libdexkit.so",
+      "bytes": 290408
+    },
+    {
+      "name": "liboplus_camera_pro_native.so",
+      "bytes": 904792
+    }
+  ],
+  "jni_exports": [
+    "Java_com_tlsu_opluscamerapro_hook_camera_AICaptureGuideNativePatcher_patchMorphoAnchorTrackingNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_applyGainmapToneNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_applyGainmapToneToAlpha8Native",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_decodeJpegToAlpha8TurboNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_decodeJpegToGainmapAlpha8Native",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_decodeJpegToGainmapAlpha8TurboNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_encodeAlpha8JpegNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_encodeBitmapToGainmapJpegTurboNative",
+    "Java_com_tlsu_opluscamerapro_hook_camera_PseudoUltraHdrNative_encodeJpegToGainmapJpegTurboNative"
+  ],
+  "native_symbol_profile": {
+    "total": 665,
+    "libjpeg_turbo": 262,
+    "cpp_mangled": 340,
+    "jni": 9
+  },
+  "source_repo": {
+    "commit": "1fe83082dfbe176f723437018ee9f89f3478c2b3",
+    "committed": "2025-12-13",
+    "versionName": "Katrina 3.0.1",
+    "versionCode": 3010,
+    "kotlin_files": 41,
+    "kotlin_lines": 9132,
+    "license": "GPL-3.0",
+    "xposed_api": "de.robv.android.xposed:api:82 (legacy)",
+    "entry_class": "MainHook"
+  },
+  "gaps_in_public_source": {
+    "classes_in_apk_not_in_source": [
+      "ModernHookEntry",
+      "hook/camera/PseudoUltraHdrNative",
+      "hook/camera/AICaptureGuideNativePatcher"
+    ],
+    "classes_in_source_not_in_apk_plain": "源码 41 类中 36 类在 DEX 里查不到原始全名（被 R8 重命名），非「类丢失」",
+    "native_layer": "源码仓库无任何 .c/.cpp/.h，4 个 .so 全为黑盒",
+    "hook_framework": "APK 声明 io.github.libxposed.service.XposedProvider，源码用 legacy xposed API"
+  },
+  "rea": {
+    "version": "6.10.1",
+    "mcp_registered": true,
+    "mcp_tools_need_client_restart": true,
+    "jadx_provider": "healthy_but_blocked_on_proot",
+    "jadx_error": "Selected JADX input bytes changed during admission at .../ReaJadxBridge.java",
+    "engines_available": [
+      "built-in parsers",
+      "apktool 2.7.0"
+    ],
+    "engines_missing": [
+      "jadx(decompile)",
+      "Ghidra",
+      "IDA",
+      "Hopper"
+    ]
+  },
+  "obfuscation_note": "源码 41 个类中，DEX 里只有 5 个保留原始全名（见 module_classes_visible），其余在 R8 full-mode 下被重命名为短 ASCII 名，无法用字符集判定，因此不给出混淆类计数。保留原名的 5 个恰好都是必须保留的：manifest 引用(MainActivity)、JNI 符号名派生(PseudoUltraHdrNative/AICaptureGuideNativePatcher)、keep 规则入口(ModernHookEntry/App)。"
+}

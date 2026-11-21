@@ -1,0 +1,146 @@
+{
+ "per_file": {
+  "defpackage/AbstractC3819.java": [
+   "488@21227L70,489@21321L72,490@21419L377,498@21822L28,486@21157L703",
+   "CC(remember):CustomWatermarkListScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC1525.java": [
+   "1761@75470L54,1762@75560L53,1760@75423L208",
+   "1767@75752L55,1768@75843L60,1766@75705L216",
+   "1778@76271L500,1772@75974L797",
+   "1842@78941L202,1846@79164L75",
+   "1858@79717L10,1859@79785L11,1856@79625L275",
+   "CC(remember):FilterOrderScreen.kt#9igjgp",
+   "\\s+"
+  ],
+  "defpackage/AbstractC1184.java": [
+   "761@34597L11,762@34676L10,759@34507L328",
+   "772@35045L11,773@35117L10,770@34949L210",
+   "821@36709L11",
+   "823@36805L11",
+   "826@36938L11",
+   "828@37014L11",
+   "C72@3469L9:Box.kt#2w3rfo",
+   "C845@37854L10,839@37485L468:ModuleLogCenterScreen.kt#r6v94r",
+   "CC(Box)N(modifier,contentAlignment,propagateMinConstraints,content)71@3424L131:Box.kt#2w3rfo",
+   "CC(remember):ModuleLogCenterScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC1974.java": [
+   "171@7354L44,167@7192L216",
+   "178@7534L43,176@7463L124",
+   "CC(remember):CameraTopHintCards.kt#9igjgp"
+  ],
+  "defpackage/C2748.java": [
+   "tag"
+  ],
+  "defpackage/C0859.java": [
+   ",",
+   "1",
+   "2",
+   "5",
+   "8",
+   "id"
+  ],
+  "defpackage/AbstractC1308.java": [
+   "jsonObject",
+   "outputPath"
+  ],
+  "defpackage/C1143.java": [
+   "0"
+  ],
+  "defpackage/C1505.java": [
+   "1654@96989L51,1655@97084L50,1658@97338L38,1653@96933L605",
+   "CC(remember):VendorTagSettingsGroup.kt#9igjgp",
+   "enableHasselbladWatermark",
+   "enableLUMO"
+  ],
+  "defpackage/C1519.java": [
+   "CC(remember):FilterOrderScreen.kt#9igjgp"
+  ],
+  "defpackage/C3904.java": [
+   "borderX"
+  ],
+  "defpackage/AbstractC3769.java": [
+   "770@37308L11",
+   "772@37400L11",
+   "CC(remember):MainScreen.kt#9igjgp"
+  ],
+  "defpackage/AbstractC3069.java": [
+   "273@10190L27",
+   "274@10260L27",
+   "275@10330L27",
+   "276@10405L29",
+   "C101@5233L9:Row.kt#2w3rfo",
+   "C312@11399L11,303@11054L382,314@11453L113:QAScreen.kt#9kt3g8",
+   "CC(Layout)P(!1,2)81@3355L27,84@3521L416:Layout.kt#80mrfh",
+   "CC(Row)N(modifier,horizontalArrangement,verticalAlignment,content)99@5125L58,100@5188L131:Row.kt#2w3rfo",
+   "CC(remember):QAScreen.kt#9igjgp"
+  ],
+  "defpackage/C2728.java": [
+   ";"
+  ],
+  "defpackage/C2977.java": [
+   "addFeatureList",
+   "getGroupConflict",
+   "getJSONObject(...)",
+   "groups",
+   "null cannot be cast to non-null type kotlin.Boolean",
+   "optString(...)",
+   "setGroupConflict",
+   "toBuilder"
+  ],
+  "defpackage/C2295.java": [
+   "getParameterTypes(...)"
+  ],
+  "defpackage/C1035.java": [
+   "CC(Column)N(modifier,verticalArrangement,horizontalAlignment,content)87@4443L61,88@4509L134:Column.kt#2w3rfo",
+   "CC(Layout)P(!1,2)81@3355L27,84@3521L416:Layout.kt#80mrfh"
+  ],
+  "defpackage/C0980.java": [
+   "JSON",
+   "button",
+   "buttonBackgroundImageMd5",
+   "buttonBackgroundImageUrl",
+   "buttonName",
+   "buttonSidePictureMd5",
+   "buttonSidePictureUrl",
+   "cornerMarkId",
+   "font",
+   "fontZipUrl",
+   "getAbsolutePath(...)",
+   "optString(...)",
+   "styleDesc",
+   "styleDescTwo",
+   "styleId",
+   "styleJsonMd5",
+   "styleJsonUrl",
+   "styleTitle",
+   "version"
+  ],
+  "defpackage/AbstractC1228.java": [
+   "231@11156L62,232@11242L61,233@11328L575,229@11081L865",
+   "254@12093L62,255@12179L32,252@12022L199",
+   "262@12368L65,263@12457L64,264@12548L32,265@12605L40,266@12671L40,260@12296L425",
+   "273@12867L64,274@12955L63,275@13045L32,276@13102L39,277@13167L39,271@12795L421",
+   "auxl",
+   "cdsc",
+   "dimg",
+   "grpl",
+   "hvcC",
+   "idat",
+   "iinf",
+   "iloc",
+   "ipco",
+   "ipma",
+   "iprp",
+   "iref",
+   "ispe",
+   "pitm"
+  ]
+ },
+ "summary": {
+  "solved_call_sites": 180,
+  "total_variable_call_sites": 202,
+  "unique_strings": 96
+ }
+}

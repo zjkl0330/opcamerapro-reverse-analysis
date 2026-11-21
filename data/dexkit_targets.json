@@ -1,0 +1,119 @@
+{
+ "defpackage/C3034.java|usingStrings": [
+  "CameraPicture: [wid�\u0012�",
+  ", mCapMode: ",
+  ", mExifTagFlags: ",
+  "invalidateLivePhotoTagFlags, save attributes failed.",
+  "assemble, draw downBitmapList",
+  "assemble, drawOriginBitmap",
+  "assemble, draw upperBitmapList",
+  "identity",
+  "jpeg_width",
+  "jpeg_height",
+  "CameraApsExtendData, mWatermarkCoveredImageInfo:",
+  "mWatermarkCoveredImage.length:after:",
+  "CameraApsExtendData",
+  "s4ContinueUpdateDeferIm\r��\u0001�T�",
+  "captureX savePicture size: ",
+  "continue_update_defer_image_fail",
+  "continueSavePicture, picture: ",
+  "pictureArrive, closeHardwareBuffer for savePicture finally:"
+ ],
+ "defpackage/C0274.java|usingStrings": [
+  "setNewModeWhenSt&m�}1�w\u0013;}�g",
+  "PhotoDetails",
+  "ev ",
+  "ISO "
+ ],
+ "defpackage/C0025.java|usingStrings": [
+  "CameraMenuOptionTop",
+  "pref_camera_photo_ratio_key",
+  "_BaseMode",
+  "CameraMenuContainerTopRight"
+ ],
+ "defpackage/C2990.java|usingStrings": [
+  "yyyy:MM:dd HH:mm:ss",
+  "UTC"
+ ],
+ "defpackage/C2257.java|usingStrings": [
+  "writeDataByUri, uri: ",
+  "newImageForGallery, "
+ ],
+ "defpackage/C1669.java|usingStrings": [
+  "pref_jiangwen_filter_enable",
+  "feature_is_support_hassel_watermark",
+  "local.hdr.linear.mask",
+  "local.hdr.meta.data",
+  "local.uhdr.gainmap.info",
+  "HeicProcessUtil",
+  "buildExifInterface, exifData is null!",
+  "StorageDepositorFactory",
+  "savePicToUri, exception�",
+  "savePicToUri, exception: ",
+  "writeDataByUri, uri: ",
+  "newImageForGallery, "
+ ],
+ "defpackage/C1070.java|usingStrings": [
+  "getAllFilters, start.",
+  "getAllFilters, processImage end.",
+  "getAllFil\tx��T�#�B",
+  "initFilterGroupFromIpu, filterGroup modeType: ",
+  ", deviceName=",
+  ", location=",
+  "NetworkAuthenticationUtils",
+  "checkAuthenticationTimeout, stopTime:",
+  "CameraDebugActivity",
+  "onConfigurati�23:]�|c�Q?>]�ps�5+2\t",
+  "APSVisualizationDialog",
+  "password is invalid",
+  "drawing_item_filter_type",
+  "drawing_item_filter_name",
+  "drawing_item_filter_category"
+ ],
+ "defpackage/C1726.java|usingStrings": [
+  ", subWatermarkType=",
+  ", isLumoDevice="
+ ],
+ "defpackage/C1685.java|usingStrings": [
+  "ConfigAbilityWrapper",
+  "getInt configAbility is null, configId:"
+ ],
+ "defpackage/C1656.java|usingStrings": [
+  "ConfigAbilityWrapper",
+  "getInt configAbility is null, configId:"
+ ],
+ "defpackage/C1085.java|usingStrings": [
+  "watermark_master"
+ ],
+ "defpackage/C2236.java|usingStrings": [
+  "updateGalleryLivePhotoFovMeta, sGalleryLivePhotoFovMeta:"
+ ],
+ "defpackage/C2299.java|usingStrings": [
+  ", isLumoDevice=",
+  "getInt configAbility is null, configId:",
+  "getBoolean configAbility is nul\n�ϕ*�r\no��"
+ ],
+ "defpackage/C1417.java|usingStrings": [
+  "ConfigAbilityWrapper",
+  "getInt configAbility is null, configId:"
+ ],
+ "defpackage/C1203.java|usingStrings": [
+  "SystemPropertiesAddonUt",
+  "BaseWaterm��dfR\u0005Y�",
+  "MasterEffectMenuV2",
+  "hideMasterEffectHint, hint text view is null",
+  "OplusCameraCharacteristics",
+  "getProExtensionIsoRange, fa��$��߰'��5×ܴ'�",
+  "DATASPACE_DISPLAY_P3_HLG"
+ ],
+ "defpackage/C0546.java|usingStrings": [
+  "drawing_item_filte�/�]�",
+  "drawing_item_filter_name",
+  "generateDrawingItemsVertical"
+ ],
+ "defpackage/C1661.java|usingStrings": [
+  "SystemPropertiesAddonUt",
+  "getSystemProperties fail, r\u0006�z�#83[\u0013�d�#*7Q\u0007�",
+  "getString configAbility is null, configId:"
+ ]
+}
